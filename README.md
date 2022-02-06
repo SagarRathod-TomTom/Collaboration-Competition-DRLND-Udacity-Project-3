@@ -1,4 +1,4 @@
-# Continuous Control
+# Collaboration and Competition
 
 ## Project Goal
 
